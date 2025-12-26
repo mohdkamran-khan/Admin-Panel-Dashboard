@@ -1,4 +1,4 @@
-# Admin Panel Dashboard
+# 🕵🏼‍♂️ Admin Panel Dashboard
 
 A modern responsive Admin Panel Dashboard built using **React**, **Vite** and **Recharts**, designed with clean UI components, charts, authentication flow, theme support and reusable modules suitable for scalable admin applications.
 
